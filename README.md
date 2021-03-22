@@ -10,13 +10,13 @@
 
 ### Base description:
 
-Theme edited and adapted by Szalik for rg351p/m 351ELEC community.
+Theme edited and adapted by **Szalik** for rg351p/m 351ELEC community.
 
 ---
 
 ### Credit:
 
-For most of the things in theme: RetroHursty69
+For most of the things in theme: **RetroHursty69**
 
 ---
 
